@@ -1,7 +1,7 @@
-import React from 'react'
+// import React from 'react'
 import googleImage from '../../assets/googleImage.png';
-import githubImage from '../../assets/githubImage.png';
-import twitterImage from '../../assets/twitterImage.png';
+// import githubImage from '../../assets/githubImage.png';
+// import twitterImage from '../../assets/twitterImage.png';
 import styles from './LoginPage.module.css';
 
 export default function LoginPage() {
